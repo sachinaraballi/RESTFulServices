@@ -47,6 +47,11 @@ $ curl http://localhost:8080/myapp/myresource
 
 Got it!
 
+The main Java Annotations are : 
+@Path - resource location
+@GET - Type of request
+@Produces - Output format
+
 
 
 
